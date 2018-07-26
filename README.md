@@ -27,3 +27,7 @@ More information at [savebitcoin.io](http://www.savebitcoin.io)
 | 1050001-2100000  | 85% (4.25 DL)  | 10% (0.5 DL)   | 5% (0.25 DL)  |
 | 2100001-3150000  | 85% (2.13 DL)  | 10% (0.25 DL)  | 5% (0.13 DL)  |
 | 3150001-Infinite | 85% (1.06 DL)  | 10% (0.13 DL)  | 5% (0.06 DL)  |
+
+
+Join Discord for more updated information - https://discord.gg/EXfbDFR
+
