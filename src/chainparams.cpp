@@ -96,7 +96,7 @@ public:
 	pchMessageStart[1] = 0x5a;
 	pchMessageStart[2] = 0xc4;
         pchMessageStart[3] = 0x54;
-        vAlertPubKey = ParseHex("04bcef7296a547c2c84c3e7b564ae6b3c1e4455982a2ca736d4570fd37443840873578e4ec7485027256956d4804bc5db25ed80d5546b30264b423b69fa009843d");
+        vAlertPubKey = ParseHex("04ec25f6b85b17a61d824b37ccf505b8cd298bbd2f422e2943445564a5e2f2cc1a7b6ce381ece0e9f03fc8169f4db75603a83a622776b4e6640d783432e0feb21e");
         nDefaultPort = 8887;
         bnProofOfWorkLimit = ~uint256(0) >> 1;
         nSubsidyHalvingInterval = 10500000;
@@ -158,7 +158,7 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "04cc17389379a0e323f53ea504d38cd71f43dc22f597805fed33a51b05ced1a3ae0db84089985f351b3737721736a82f58c8bd529f79c8ffe57e922bda792146ab";
+        strSporkKey = "04ec25f6b85b17a61d824b37ccf505b8cd298bbd2f422e2943445564a5e2f2cc1a7b6ce381ece0e9f03fc8169f4db75603a83a622776b4e6640d783432e0feb21e";
         strMasternodePoolDummyAddress = "ASJVWUkt6HtSCY2SaJ2akeyJUg8bg1hW3S";
         nStartMasternodePayments = genesis.nTime + 86400; // 24 hours after genesis creation
 
@@ -186,7 +186,7 @@ public:
         pchMessageStart[1] = 0x2d;
         pchMessageStart[2] = 0x32;
         pchMessageStart[3] = 0xbc;
-        vAlertPubKey = ParseHex("041b2b4c86273359acac3522471911ed2b303eaab65e8a1de01c06e89f2eab1e55234a4b504f3ce20c6f661f007d0ca15623b4358d9855c7c8ba793a24fa315e22");
+        vAlertPubKey = ParseHex("04ec25f6b85b17a61d824b37ccf505b8cd298bbd2f422e2943445564a5e2f2cc1a7b6ce381ece0e9f03fc8169f4db75603a83a622776b4e6640d783432e0feb21e");
         nDefaultPort = 18887;
         nEnforceBlockUpgradeMajority = 51;
         nRejectBlockOutdatedMajority = 75;
@@ -233,7 +233,7 @@ public:
         fTestnetToBeDeprecatedFieldRPC = true;
 
         nPoolMaxTransactions = 2;
-        strSporkKey = "04abb5e65280dda6a113fadfb9877f9c399532245fe1acb61de293ab298034d5084277fab3768774a3b68cbbe5021cc5049ec8c9997a13f64da1afa0bcfb156db1";
+        strSporkKey = "04ec25f6b85b17a61d824b37ccf505b8cd298bbd2f422e2943445564a5e2f2cc1a7b6ce381ece0e9f03fc8169f4db75603a83a622776b4e6640d783432e0feb21e";
         strMasternodePoolDummyAddress = "gbJ4Qad4xc77PpLzMx6rUegAs6aUPWkcUq";
         nStartMasternodePayments = genesis.nTime + 86400; // 24 hours after genesis
         nBudget_Fee_Confirmations = 3; // Number of confirmations for the finalization fee. We have to make this very short
