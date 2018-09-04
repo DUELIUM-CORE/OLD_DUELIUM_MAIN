@@ -15,19 +15,5 @@ More information at [savebitcoin.io](http://www.savebitcoin.io)
 | Max Coin Supply (PoW Phase) | 875,000 DL    |
 | Max Coin Supply (PoS Phase) | 8,888,888 DL |
 
-
-### Reward Distribution
-
-| **Block Height** | **Masternodes**  | **PoS**          | **Budget**      |
-|------------------|------------------|------------------|-----------------|
-| 201-5000         | 69% (0.85 DL)  | 29% (0.1 DL)   | 2% (0.05 DL)  |
-| 5001-25000       | 69% (25.5 DL)  | 29% (3 DL)     | 2% (1.5 DL)   |
-| 25001-100000     | 69% (17 DL)    | 29% (2 DL)     | 2% (1 DL)     |
-| 100001-1050000   | 69% (8.5 DL)   | 29% (1 DL)     | 2% (0.5 DL)   |
-| 1050001-2100000  | 69% (4.25 DL)  | 29% (0.5 DL)   | 2% (0.25 DL)  |
-| 2100001-3150000  | 69% (2.13 DL)  | 29% (0.25 DL)  | 2% (0.13 DL)  |
-| 3150001-Infinite | 69% (1.06 DL)  | 29% (0.13 DL)  | 2% (0.06 DL)  |
-
-
 Join Discord for more updated information - https://discord.gg/EXfbDFR
 
